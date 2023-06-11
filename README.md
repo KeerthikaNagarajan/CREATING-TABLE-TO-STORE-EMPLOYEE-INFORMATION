@@ -1,6 +1,6 @@
-## Ex-5
+## Ex-05:
 ## CREATING TABLE TO STORE EMPLOYEE INFORMATION
-### Aim:
+### AIM:
 To Write a Java Program To Store a Details
 ```
 Write a program that would print the information (name, year of joining, salary, address) of 
@@ -11,16 +11,16 @@ Name           Year of joining                Address
  John                1999                  26B- WallsStreat
 ```
 
-### Procedure:
-* Define a class named "Employee" with instance variables to store employee details such as name,year of joining,address
-* Create methods within the "Employee" class to get and set the values of these instance variables.
-* Instantiate an "Employee" object for each employee and set their details using the setter methods.
-* Create a collection (e.g., an ArrayList) to store the employee objects.
-* Prompt the user for input to gather the details of each employee.
-* Create a loop to repeat.After the loop ends, you can perform operations on the collection, such as searching for specific employees, displaying all employee details.
+### ALGORITHM:
+1. Define a class named "Employee" with instance variables to store employee details such as name,year of joining,address
+2. Create methods within the "Employee" class to get and set the values of these instance variables.
+3. Instantiate an "Employee" object for each employee and set their details using the setter methods.
+4. Create a collection (e.g., an ArrayList) to store the employee objects.
+5. Prompt the user for input to gather the details of each employee.
+6. Create a loop to repeat.After the loop ends, you can perform operations on the collection, such as searching for specific employees, displaying all employee details.
 
-### Code:
-```
+### PROGRAM:
+```java
 class Employee
 {
     String Name;
@@ -56,9 +56,9 @@ class Ex5
  }
 ```
 
-### Output:
+### OUTPUT:
 <img width="261" alt="5" src="https://github.com/KeerthikaNagarajan/Java-Ex-5/assets/93427089/6b553ed5-27c6-41c8-b61b-9e9ca213798e">
 
-### Result:
+### RESULT:
 Thus The Output Is Verfied.
 
